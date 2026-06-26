@@ -90,8 +90,9 @@ body[data-lang=ko] .toggle button[data-lang=ko]{
 }
 
 .lead{
-  font-size:22px;
+  font-size:19px;
   max-width:760px;
+  line-height:1.55;
 }
 
 .eyebrow{
